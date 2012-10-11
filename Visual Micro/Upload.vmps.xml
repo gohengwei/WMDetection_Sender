@@ -1,0 +1,14 @@
+<VisualMicro>
+  <Program Name="WMDetection_Sender" Ext=".ino" Location="C:\Users\Eng Wei\Documents\Arduino\WMDetection_Sender">
+    <Compile CompilerErrors="0" ConfigurationName="Debug" StopOnError="True" OptimiseLibs="True" OptimiseCore="True" BuildPath="C:\Users\Eng Wei\AppData\Local\VMicro\Arduino\Builds\WMDetection_Sender\uno" IncludeDebug="0" IncludesDebug="0" SketchName="WMDetection_Sender" IsCompiled="1" />
+    <Platform Name="Arduino">
+      <Board Name="uno" Description="Arduino Uno" CoreFolder="K:\Google Drive\Hardware\Arduino\arduino-1.0.1\hardware\arduino\cores\arduino" VariantFullPath="K:\Google Drive\Hardware\Arduino\arduino-1.0.1\hardware\arduino\variants\standard" />
+    </Platform>
+    <VCCodeModel>
+      <VCCodeMacros>
+        <VCCodeMacro Name="ARDUINO" Value="101" />
+        <VCCodeMacro Name="__AVR_ATmega328P__" />
+      </VCCodeMacros>
+    </VCCodeModel>
+  </Program>
+</VisualMicro>
